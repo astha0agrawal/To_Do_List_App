@@ -1,5 +1,4 @@
-# TXON_03
-TXON task 03
+
 <h2>A To-Do List Website</h2>
 <p>This project has following features: </p>
 <ul>
